@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:37:01 GMT
+Content-Length: 1746
+
+{"Markets":[{"MarketId":99498,"Name":"Wall Street CFD"},{"MarketId":99500,"Name":"UK 100 CFD"},{"MarketId":99504,"Name":"US SP 500 CFD"},{"MarketId":99506,"Name":"France 40 CFD"},{"MarketId":99508,"Name":"Germany 30 CFD"},{"MarketId":154282,"Name":"AUD/USD (per 0.0001) CFD"},{"MarketId":154290,"Name":"EUR/USD (per 0.0001) CFD"},{"MarketId":154297,"Name":"GBP/USD (per 0.0001) CFD"},{"MarketId":154303,"Name":"USD/JPY (per 0.01) CFD"},{"MarketId":400155750,"Name":"Hong Kong 40 CFD"},{"MarketId":400155751,"Name":"Japan 225 CFD"},{"MarketId":400156126,"Name":"Gold CFD"},{"MarketId":400159936,"Name":"Australia 200 CFD"},{"MarketId":400616113,"Name":"UK 100 DFT"},{"MarketId":400616114,"Name":"Wall Street DFT"},{"MarketId":400616115,"Name":"Germany 30 DFT"},{"MarketId":400616141,"Name":"US SP 500 DFT"},{"MarketId":400616149,"Name":"EUR/USD DFT"},{"MarketId":400616150,"Name":"GBP/USD DFT"},{"MarketId":400616316,"Name":"France 40 DFT"},{"MarketId":400616377,"Name":"Gold (per 0.1) DFT"},{"MarketId":400616391,"Name":"Japan 225 DFT"},{"MarketId":400644310,"Name":"Germany 30 Promo CFD "},{"MarketId":400704259,"Name":"Australia 200 Jun 13 CFD"}],"Tags":[{"MarketTagId":80,"Name":"FX","Type":1},{"MarketTagId":81,"Name":"FX FX-Major","Type":2},{"MarketTagId":90,"Name":"Indices","Type":1},{"MarketTagId":94,"Name":"Indices Asia","Type":2},{"MarketTagId":95,"Name":"Indices Australia","Type":2},{"MarketTagId":93,"Name":"Indices Europe","Type":2},{"MarketTagId":91,"Name":"Indices UK","Type":2},{"MarketTagId":92,"Name":"Indices US","Type":2},{"MarketTagId":125,"Name":"Metals","Type":1},{"MarketTagId":146,"Name":"Popular","Type":1},{"MarketTagId":150,"Name":"Popular Australia","Type":2},{"MarketTagId":147,"Name":"Popular Spreads","Type":2}]}

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Lightstreamer/4.0.2 build 1513.1.8 (Lightstreamer Push Server - www.lightstreamer.com) Vivace edition
+Content-Type: text/xml
+Expires: Thu, 1 Jan 1970 00:00:00 UTC
+Date: Sun, 14 Apr 2013 14:36:54 UTC
+Content-Length: 233
+
+<?xml version="1.0"?>
+<cross-domain-policy>
+  <allow-access-from domain="*"/>
+  <site-control permitted-cross-domain-policies="master-only" />
+  <allow-http-request-headers-from domain="*" headers="*" />
+</cross-domain-policy>

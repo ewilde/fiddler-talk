@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Username, Session
+Access-Control-Max-Age: 1728000
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:53 GMT
+Content-Length: 124
+
+{"ClientPreference":{"Key":"MARKET_QUANTITIES","Value":"[[\"99498\",1],[\"99500\",1],[\"400704259\",1],[\"400616113\",3]]"}}

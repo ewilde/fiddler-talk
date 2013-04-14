@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:59 GMT
+Content-Length: 2334
+
+{"OpenPositions":[{"OrderId":487072515,"MarketId":99500,"MarketName":"UK 100 CFD","Direction":"sell","Quantity":1.0000,"Price":6176.800000000,"TradingAccountId":400250260,"Currency":"GBP","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1358854105627)\/","AutoRollover":false,"TradeReference":null},{"OrderId":488697313,"MarketId":99500,"MarketName":"UK 100 CFD","Direction":"sell","Quantity":1.0000,"Price":6459.000000000,"TradingAccountId":400250260,"Currency":"GBP","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1362735891347)\/","AutoRollover":false,"TradeReference":null},{"OrderId":489465275,"MarketId":154290,"MarketName":"EUR/USD (per 0.0001) CFD","Direction":"buy","Quantity":1.0000,"Price":1.282510000,"TradingAccountId":400250260,"Currency":"USD","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1364560079107)\/","AutoRollover":true,"TradeReference":null},{"OrderId":489667921,"MarketId":154297,"MarketName":"GBP/USD (per 0.0001) CFD","Direction":"sell","Quantity":2.0000,"Price":1.523070000,"TradingAccountId":400250260,"Currency":"USD","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1365155230703)\/","AutoRollover":false,"TradeReference":null},{"OrderId":489672680,"MarketId":154300,"MarketName":"NZD/USD (per 0.0001) CFD","Direction":"buy","Quantity":1.0000,"Price":0.840180000,"TradingAccountId":400250260,"Currency":"USD","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1365158611987)\/","AutoRollover":true,"TradeReference":null},{"OrderId":489672699,"MarketId":154300,"MarketName":"NZD/USD (per 0.0001) CFD","Direction":"buy","Quantity":1.0000,"Price":0.840240000,"TradingAccountId":400250260,"Currency":"USD","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1365158621097)\/","AutoRollover":true,"TradeReference":null},{"OrderId":489883937,"MarketId":400159936,"MarketName":"Australia 200 CFD","Direction":"buy","Quantity":50.0000,"Price":5021.000000000,"TradingAccountId":400250260,"Currency":"AUD","Status":3,"StopOrder":{"OrderId":489884048,"TriggerPrice":4800.000000000,"Quantity":50.0000,"Guaranteed":false},"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1365680319600)\/","AutoRollover":false,"TradeReference":null}]}

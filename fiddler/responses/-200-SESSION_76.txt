@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Lightstreamer/4.0.2 build 1513.1.8 (Lightstreamer Push Server - www.lightstreamer.com) Vivace edition
+Content-Type: text/plain; charset=iso-8859-1
+Cache-Control: no-store
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 1 Jan 1970 00:00:00 UTC
+Date: Sun, 14 Apr 2013 14:36:57 UTC
+Content-Length: 4
+
+OK

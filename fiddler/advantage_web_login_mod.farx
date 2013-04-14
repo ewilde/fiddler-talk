@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2013-04-14T16:34:23.9484995+01:00" FiddlerVersion="4.4.3.8">
+  <State Enabled="true" Fallthrough="false" UseLatency="false">
+    <ResponseRule Match="https://trade.loginandtrade.com/tp/fx/FlexShell.Web-0.1353.swf" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_5.swf" Enabled="true" />
+    <ResponseRule Match="https://trade.loginandtrade.com/favicon.ico" Action="C:\dev\fiddler-talk\fiddler\responses\-404-SESSION_6.htm" Enabled="true" />
+    <ResponseRule Match="https://trade.loginandtrade.com/favicon.ico" Action="C:\dev\fiddler-talk\fiddler\responses\-404-SESSION_7.htm" Enabled="true" />
+    <ResponseRule Match="https://trade.loginandtrade.com/favicon.ico" Action="C:\dev\fiddler-talk\fiddler\responses\-404-SESSION_8.htm" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/session" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_16.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/message/translation?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_17.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/UserAccount/ClientAndTradingAccount?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_18.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/message/lookup?lookupEntityName=OrderApplicability&amp;cultureId=69&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_19.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/message/lookup?lookupEntityName=OrderStatusReason&amp;cultureId=69&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_26.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_27.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/message/lookup?lookupEntityName=InstructionStatusReason&amp;cultureId=69&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_28.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/message/lookup?lookupEntityName=Currency&amp;cultureId=69&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_29.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_30.txt" Enabled="true" />
+    <ResponseRule Match="https://push.cityindex.com/crossdomain.xml" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_31.xml" Enabled="true" />
+    <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_32.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_36.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_37.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_38.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_39.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/get?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_40.txt" Enabled="true" />
+    <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_41.txt" Enabled="true" />
+    <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_42.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/crossdomain.xml" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_43.xml" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/watchlists?a=0.7778142811730504&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_44.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/activestoplimitorders?tradingaccountid=400250261&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_45.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/activestoplimitorders?tradingaccountid=400250260&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_47.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/tagLookup?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_51.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/stoplimitorderhistory?tradingaccountid=400250261&amp;maxResults=50&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_52.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/stoplimitorderhistory?tradingaccountid=400250260&amp;maxResults=50&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_53.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/clientpreference/save?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_54.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/tagLookup?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_59.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_61.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_62.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/tradehistory?tradingaccountid=400250260&amp;MaxResults=50&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_64.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/tradehistory?tradingaccountid=400250261&amp;MaxResults=50&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_66.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_67.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_68.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_69.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_70.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_71.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_72.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_73.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_74.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_75.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_76.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/openpositions?tradingaccountid=400250260&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_77.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/openpositions?tradingaccountid=400250261&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_78.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/searchwithtags?Query=&amp;TagId=146&amp;MaxResults=100&amp;SpreadProductType=true&amp;CfdProductType=true&amp;IncludeOptions=true&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_79.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_80.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_81.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/400615753/barhistory?interval=MINUTE&amp;span=5&amp;pricebars=300&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_82.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/openpositions?tradingaccountid=400250261&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_83.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/activestoplimitorders?tradingaccountid=400250261&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_84.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/128911/barhistory?interval=MINUTE&amp;span=5&amp;pricebars=300&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_88.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/openpositions?tradingaccountid=400250260&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_89.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_90.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_91.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/activestoplimitorders?tradingaccountid=400250260&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_92.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_93.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_94.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_95.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_96.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/cfd/markets?MarketName=&amp;MaxResults=100&amp;ClientAccountId=400167559&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_97.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/cfd/markets?MarketName=&amp;MaxResults=100&amp;ClientAccountId=400167559&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_98.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_99.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_100.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_101.txt" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/bind_session.txt" Action="*delay:1000000000" Enabled="true" />
+    <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="*200-SESSION_28" Latency="16" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/create_session.txt" Action="*200-SESSION_28" Latency="16" Enabled="true" />
+  </State>
+</AutoResponder>

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:57 GMT
+Content-Length: 1273
+
+{"OpenPositions":[{"OrderId":485694998,"MarketId":400615730,"MarketName":"BP DFT","Direction":"buy","Quantity":3.0000,"Price":423.530000000,"TradingAccountId":400250261,"Currency":"GBP","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1354702199763)\/","AutoRollover":false,"TradeReference":null},{"OrderId":487072536,"MarketId":400616113,"MarketName":"UK 100 DFT","Direction":"buy","Quantity":2.0000,"Price":6177.800000000,"TradingAccountId":400250261,"Currency":"GBP","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1358854138233)\/","AutoRollover":false,"TradeReference":null},{"OrderId":488954245,"MarketId":400616114,"MarketName":"Wall Street DFT","Direction":"buy","Quantity":0.6000,"Price":14504.000000000,"TradingAccountId":400250261,"Currency":"GBP","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1363366462437)\/","AutoRollover":true,"TradeReference":null},{"OrderId":489667931,"MarketId":400616150,"MarketName":"GBP/USD DFT","Direction":"buy","Quantity":2.0000,"Price":1.523450000,"TradingAccountId":400250261,"Currency":"GBP","Status":3,"StopOrder":null,"LimitOrder":null,"LastChangedDateTimeUTC":"\/Date(1365155255587)\/","AutoRollover":false,"TradeReference":null}]}

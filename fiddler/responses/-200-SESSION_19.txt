@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:53 GMT
+Content-Length: 567
+
+{"CultureId":69,"LookupEntityName":"OrderApplicability","ApiLookupDTOList":[{"Id":1,"Description":"Good Till Date","DisplayOrder":1,"TranslationTextId":null,"TranslationText":"Good Till Date","IsActive":true,"IsAllowed":false},{"Id":2,"Description":"Good Till Cancelled","DisplayOrder":2,"TranslationTextId":null,"TranslationText":"Good Till Cancelled","IsActive":true,"IsAllowed":false},{"Id":3,"Description":"Good For Day","DisplayOrder":3,"TranslationTextId":null,"TranslationText":"Good For Day","IsActive":true,"IsAllowed":false}],"ApiCultureLookupDTOList":null}

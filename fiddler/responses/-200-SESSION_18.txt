@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:53 GMT
+Content-Length: 492
+
+{"LogonUserName":"Miss Joanna TEST Love TEST - Test","ClientAccountId":400167559,"ClientAccountCurrency":"GBP","AccountOperatorId":3020,"TradingAccounts":[{"TradingAccountId":400250260,"TradingAccountCode":"DM398026","TradingAccountStatus":"Open","TradingAccountType":"CFD"},{"TradingAccountId":400250261,"TradingAccountCode":"DM446756","TradingAccountStatus":"Open","TradingAccountType":"Spread Betting"}],"PersonalEmailAddress":"Joanna.Love@cityindex.com","HasMultipleEmailAddresses":false}

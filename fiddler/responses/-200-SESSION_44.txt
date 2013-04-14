@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:53 GMT
+Content-Length: 722
+
+{"ClientAccountId":0,"ClientAccountWatchlists":[{"WatchlistId":233015,"WatchlistDescription":"Watchlist 1","DisplayOrder":0,"Items":[{"WatchlistId":233015,"MarketId":400616113,"DisplayOrder":1},{"WatchlistId":233015,"MarketId":400616114,"DisplayOrder":3},{"WatchlistId":233015,"MarketId":400616151,"DisplayOrder":4},{"WatchlistId":233015,"MarketId":400615724,"DisplayOrder":6},{"WatchlistId":233015,"MarketId":400615920,"DisplayOrder":7}]},{"WatchlistId":272766,"WatchlistDescription":"Watchlist 1","DisplayOrder":1,"Items":[{"WatchlistId":272766,"MarketId":99508,"DisplayOrder":1}]},{"WatchlistId":279091,"WatchlistDescription":"test","DisplayOrder":2,"Items":[{"WatchlistId":279091,"MarketId":99500,"DisplayOrder":1}]}]}

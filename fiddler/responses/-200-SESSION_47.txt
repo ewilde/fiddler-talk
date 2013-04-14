@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sun, 14 Apr 2013 14:36:55 GMT
+Content-Length: 470
+
+{"ActiveStopLimitOrders":[{"OrderId":489884048,"ParentOrderId":489883937,"MarketId":400159936,"MarketName":"Australia 200 CFD","Direction":"sell","Quantity":50.0000,"TriggerPrice":4800.000000000,"TradingAccountId":400250260,"Type":2,"Applicability":2,"ExpiryDateTimeUTC":null,"Currency":"AUD","Status":2,"StopOrder":null,"LimitOrder":null,"OcoOrder":null,"LastChangedDateTimeUTC":"\/Date(1365680525110)\/","AutoRollover":false,"Guaranteed":false,"TradeReference":null}]}
