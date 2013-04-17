@@ -24,7 +24,7 @@
     <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_41.txt" Enabled="true" />
     <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_42.txt" Enabled="true" />
     <ResponseRule Match="https://push1.cityindex.com/crossdomain.xml" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_43.xml" Enabled="true" />
-    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/watchlists?a=0.7778142811730504&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_44.txt" Enabled="true" />
+    <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/watchlists" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_44.txt" Enabled="true" />
     <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/activestoplimitorders?tradingaccountid=400250261&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_45.txt" Enabled="true" />
     <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/order/activestoplimitorders?tradingaccountid=400250260&amp;UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_47.txt" Enabled="true" />
     <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/tagLookup?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_51.txt" Enabled="true" />
@@ -68,7 +68,7 @@
     <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_99.txt" Enabled="true" />
     <ResponseRule Match="https://ciapi.cityindex.com/TradingAPI/market/information?UserName=dm398026" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_100.txt" Enabled="true" />
     <ResponseRule Match="https://push1.cityindex.com/lightstreamer/control.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-SESSION_101.txt" Enabled="true" />
-    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/bind_session.txt" Action="*delay:1000000000" Enabled="true" />
+    <ResponseRule Match="https://push1.cityindex.com/lightstreamer/bind_session.txt" Action="C:\dev\fiddler-talk\fiddler\responses\-200-LightStream-bind_session.txt" Enabled="true" />
     <ResponseRule Match="https://push.cityindex.com/lightstreamer/create_session.txt" Action="*200-SESSION_28" Latency="16" Enabled="true" />
     <ResponseRule Match="https://push1.cityindex.com/lightstreamer/create_session.txt" Action="*200-SESSION_28" Latency="16" Enabled="true" />
   </State>

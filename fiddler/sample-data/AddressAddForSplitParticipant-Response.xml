@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soap:Body>
+		<AddressAddForSplitParticipantResponse xmlns="http://cityindex.co.uk/RebateSplit">
+			<AddressAddForSplitParticipantResult Id="16678">
+				<AddressLine1 Id="2" Value="102B"/>
+				<AddressLine2 Id="3" Value="Offord road"/>
+				<AddressLine3 Id="5" Value="London"/>
+				<AddressLine4/>
+				<AddressLine5/>
+				<Country Description="United Kingdom" Id="223" Name="United Kingdom">
+					<Regulator Description="FSA" Id="1"/>
+				</Country>
+				<PostCode>N1 1PF</PostCode>
+				<Since>2008-04-16T07:01:59.2577012Z</Since>
+				<Status Id="1"/>
+				<Type Id="1"/>
+			</AddressAddForSplitParticipantResult>
+		</AddressAddForSplitParticipantResponse>
+	</soap:Body>
+</soap:Envelope>
